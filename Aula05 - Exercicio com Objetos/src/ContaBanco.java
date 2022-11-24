@@ -1,5 +1,3 @@
-import java.sql.SQLOutput;
-
 public class ContaBanco {
 
     public int numConta;
