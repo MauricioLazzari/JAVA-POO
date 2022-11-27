@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95c7f5d8-6961-4b42-b16d-3aebc81bf8d9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Aula02 - Exercícios Classes e Objetos/Aula02 - Exercícios Classes e Objetos.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula07 - Relacionamento entre Classes/src/Luta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula09 - Exercício Prático/Aula09 - Exercício Prático.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula09 - Exercício Prático/src/Livro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula09 - Exercício Prático/src/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula09 - Exercício Prático/src/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula09 - Exercício Prático/src/Publicacao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula07 - Relacionamento entre Classes/src/Lutador.java" beforeDir="false" afterPath="$PROJECT_DIR$/Aula07 - Relacionamento entre Classes/src/Lutador.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula07 - Relacionamento entre Classes/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Aula07 - Relacionamento entre Classes/src/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -33,8 +35,19 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Principal (1)">
+    <configuration name="Principal (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Principal" />
+      <module name="Aula09 - Exercício Prático" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Principal" />
       <module name="Aula07 - Relacionamento entre Classes" />
@@ -44,6 +57,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Principal (1)" />
         <item itemvalue="Application.Principal" />
       </list>
     </recent_temporary>
