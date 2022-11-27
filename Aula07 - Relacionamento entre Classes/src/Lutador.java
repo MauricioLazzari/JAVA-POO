@@ -1,5 +1,3 @@
-import java.security.spec.RSAOtherPrimeInfo;
-
 public class Lutador {
 
     private String nome;
@@ -30,6 +28,7 @@ public class Lutador {
         System.out.println("Nome: " + getNome());
         System.out.println("Idade: " + getIdade());
         System.out.println("Peso: " + getPeso());
+        System.out.println("Categoria: " + getCategoria());
         System.out.println("Vitórias: " + getVitoria());
         System.out.println("Derrotas: " + getDerrota());
         System.out.println("Empates: " + getEmpate());
@@ -93,14 +92,22 @@ public class Lutador {
         return peso;
     }
 
+    //Se o peso do lutador for menor que 52.2, então ele é inválido.
+    //Se o peso for menor ou igual a 70.3 ele é da categoria LEVE.
+    //Se o peso for menor ou igual a 120.2 ele é da categoria PESADO.
+    //Se for maior que 120.2, então ele é inválido.
     private void setPeso(float peso) {
         if(peso < 52.2){
             this.categoria = "Inválido";
+            this.peso = peso;
         }else if(peso <= 70.3){
             this.categoria = "Leve";
+            this.peso = peso;
         }else if(peso <= 120.2){
             this.categoria = "Pesado";
+            this.peso = peso;
         }else{
+            this.peso = peso;
             this.categoria = "Inválido";
         }
     }
