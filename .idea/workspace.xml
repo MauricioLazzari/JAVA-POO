@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95c7f5d8-6961-4b42-b16d-3aebc81bf8d9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Aula09 - Exercício Prático/Aula09 - Exercício Prático.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula09 - Exercício Prático/src/Livro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula09 - Exercício Prático/src/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula09 - Exercício Prático/src/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula09 - Exercício Prático/src/Publicacao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,5 +77,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
